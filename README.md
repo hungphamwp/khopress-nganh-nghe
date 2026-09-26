@@ -1,6 +1,6 @@
 # Danh sách ngành nghề: mỗi ngành 1 mẫu website KhoPress
 
-Cập nhật: 26/09/2026. Đã làm **21** / khoảng **230** ngành. `[x]` = đã có theme.
+Cập nhật: 26/09/2026. Đã làm **22** / khoảng **230** ngành. `[x]` = đã có theme.
 
 ## 🎯 Ưu tiên làm tiếp (20 ngành)
 - [ ] Cà phê
@@ -10,7 +10,7 @@ Cập nhật: 26/09/2026. Đã làm **21** / khoảng **230** ngành. `[x]` = đ
 - [ ] Mỹ phẩm
 - [ ] Trung tâm tiếng Anh
 - [ ] Mầm non
-- [ ] Kiến trúc và xây dựng
+- [x] Kiến trúc và xây dựng — `mau-web-xaydung`
 - [ ] Vật liệu xây dựng
 - [ ] Homestay, villa
 - [ ] Studio ảnh cưới
@@ -115,7 +115,7 @@ Cập nhật: 26/09/2026. Đã làm **21** / khoảng **230** ngành. `[x]` = đ
 - [ ] Căn hộ dịch vụ, homestay cho thuê
 - [ ] Văn phòng cho thuê, coworking
 - [ ] Kiến trúc sư
-- [ ] Xây dựng nhà trọn gói
+- [x] Xây dựng nhà trọn gói — `mau-web-xaydung`
 - [ ] Sửa chữa, cải tạo nhà
 - [ ] Vật liệu xây dựng
 - [ ] Thiết bị vệ sinh
@@ -296,4 +296,4 @@ Cập nhật: 26/09/2026. Đã làm **21** / khoảng **230** ngành. `[x]` = đ
 - [ ] Đào tạo doanh nghiệp
 
 ---
-**Tổng: 229 ngành, đã làm 21.**
+**Tổng: 229 ngành, đã làm 22.**
