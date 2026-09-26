@@ -1,11 +1,11 @@
 # Danh sách ngành nghề: mỗi ngành 1 mẫu website KhoPress
 
-Cập nhật: 26/09/2026. Đã làm **24** / khoảng **230** ngành. `[x]` = đã có theme.
+Cập nhật: 26/09/2026. Đã làm **26** / khoảng **230** ngành. `[x]` = đã có theme.
 
 ## 🎯 Ưu tiên làm tiếp (20 ngành)
 - [x] Cà phê — `mau-web-caphe`
 - [x] Thẩm mỹ viện — `mau-web-thammyvien`
-- [ ] Salon tóc, barber
+- [x] Salon tóc, barber — `mau-web-salon`
 - [ ] Nail
 - [ ] Mỹ phẩm
 - [ ] Trung tâm tiếng Anh
@@ -70,8 +70,8 @@ Cập nhật: 26/09/2026. Đã làm **24** / khoảng **230** ngành. `[x]` = đ
 ## 3. Làm đẹp
 - [x] Spa
 - [x] Thẩm mỹ viện — `mau-web-thammyvien`
-- [ ] Salon tóc
-- [ ] Barber shop
+- [x] Salon tóc — `mau-web-salon`
+- [x] Barber shop — `mau-web-salon`
 - [ ] Nail
 - [ ] Phun xăm thẩm mỹ, nối mi
 - [ ] Mỹ phẩm
@@ -296,4 +296,4 @@ Cập nhật: 26/09/2026. Đã làm **24** / khoảng **230** ngành. `[x]` = đ
 - [ ] Đào tạo doanh nghiệp
 
 ---
-**Tổng: 229 ngành, đã làm 24.**
+**Tổng: 229 ngành, đã làm 26.**
