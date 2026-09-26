@@ -6,7 +6,7 @@ Cập nhật: 26/09/2026. Đã làm **26** / khoảng **230** ngành. `[x]` = đ
 - [x] Cà phê — `mau-web-caphe`
 - [x] Thẩm mỹ viện — `mau-web-thammyvien`
 - [x] Salon tóc, barber — `mau-web-salon`
-- [ ] Nail
+- [x] Nail — `mau-web-nail`
 - [ ] Mỹ phẩm
 - [ ] Trung tâm tiếng Anh
 - [ ] Mầm non
@@ -72,7 +72,7 @@ Cập nhật: 26/09/2026. Đã làm **26** / khoảng **230** ngành. `[x]` = đ
 - [x] Thẩm mỹ viện — `mau-web-thammyvien`
 - [x] Salon tóc — `mau-web-salon`
 - [x] Barber shop — `mau-web-salon`
-- [ ] Nail
+- [x] Nail — `mau-web-nail`
 - [ ] Phun xăm thẩm mỹ, nối mi
 - [ ] Mỹ phẩm
 - [ ] Nước hoa
