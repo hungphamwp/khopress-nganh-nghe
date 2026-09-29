@@ -13,9 +13,9 @@ Cập nhật: 28/09/2026. Đã làm **34** / khoảng **230** ngành. `[x]` = đ
 - [x] Kiến trúc và xây dựng — `mau-web-xaydung`
 - [ ] Vật liệu xây dựng
 - [ ] Homestay, villa
-- [ ] Studio ảnh cưới
-- [ ] Hoa tươi
-- [ ] Trang sức
+- [x] Studio ảnh cưới — mau-web-anh-cuoi · mauweb.khopress.com/anh-cuoi (#821)
+- [x] Hoa tươi — mau-web-hoa-tuoi · mauweb.khopress.com/hoa-tuoi (#815)
+- [x] Trang sức — mau-web-trang-suc · mauweb.khopress.com/trang-suc (#818)
 - [ ] Garage ô tô
 - [ ] Agency marketing
 - [ ] Kế toán, thành lập doanh nghiệp
@@ -32,7 +32,7 @@ Cập nhật: 28/09/2026. Đã làm **34** / khoảng **230** ngành. `[x]` = đ
 - [x] Quán cà phê — `mau-web-caphe`
 - [ ] Trà sữa
 - [ ] Tiệm bánh mì, bakery
-- [ ] Quán nhậu, bia craft
+- [x] Quán nhậu, bia craft — mau-web-bia-craft · mauweb.khopress.com/bia-craft (#824)
 - [ ] Lẩu, nướng BBQ
 - [ ] Sushi, đồ Nhật
 - [ ] Món Hàn
@@ -81,8 +81,8 @@ Cập nhật: 28/09/2026. Đã làm **34** / khoảng **230** ngành. `[x]` = đ
 
 ## 4. Thể thao và Thể hình
 - [x] Gym, Fitness
-- [ ] Yoga
-- [ ] Pilates
+- [x] Yoga — mau-web-yoga · mauweb.khopress.com/yoga (#827)
+- [x] Pilates — mau-web-yoga · mauweb.khopress.com/yoga (#827)
 - [ ] Võ thuật, boxing
 - [ ] Sân bóng mini, pickleball, tennis
 - [ ] Hồ bơi, dạy bơi
@@ -141,7 +141,7 @@ Cập nhật: 28/09/2026. Đã làm **34** / khoảng **230** ngành. `[x]` = đ
 
 ## 8. Cưới hỏi và Sự kiện
 - [x] Cưới hỏi
-- [ ] Studio ảnh cưới
+- [x] Studio ảnh cưới — mau-web-anh-cuoi · mauweb.khopress.com/anh-cuoi (#821)
 - [ ] Váy cưới, áo dài
 - [ ] Tổ chức sự kiện
 - [ ] Trang trí tiệc, sinh nhật
@@ -149,7 +149,7 @@ Cập nhật: 28/09/2026. Đã làm **34** / khoảng **230** ngành. `[x]` = đ
 - [ ] Thiệp cưới online
 - [ ] Quay phim, flycam
 - [ ] MC, ban nhạc
-- [ ] Hoa tươi, điện hoa
+- [x] Hoa tươi, điện hoa — mau-web-hoa-tuoi · mauweb.khopress.com/hoa-tuoi (#815)
 
 ## 9. Thời trang và Bán lẻ
 - [x] Thời trang
@@ -158,7 +158,7 @@ Cập nhật: 28/09/2026. Đã làm **34** / khoảng **230** ngành. `[x]` = đ
 - [ ] Đồ lót
 - [ ] Giày dép
 - [ ] Túi xách
-- [ ] Trang sức, vàng bạc
+- [x] Trang sức, vàng bạc — mau-web-trang-suc · mauweb.khopress.com/trang-suc (#818)
 - [ ] Đồng hồ
 - [ ] Kính mắt
 - [ ] Đồ second-hand
