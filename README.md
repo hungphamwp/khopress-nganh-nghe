@@ -172,6 +172,7 @@ Cập nhật: 28/09/2026. Đã làm **34** / khoảng **230** ngành. `[x]` = đ
 
 ## 10. Ô tô, Xe máy và Giao thông
 - [x] Ô tô (showroom)
+- [x] Đại lý ô tô điện VinFast — mau-web-vinfast · mauweb.khopress.com/vinfast (#830)
 - [ ] Garage sửa xe
 - [ ] Detailing, phủ ceramic
 - [ ] Phụ tùng
